@@ -1,8 +1,8 @@
 ﻿{
-	"name": "nikis whats next ",
-	"short_name": "nikis whats next ",
+	"name": "WhatsNext",
+	"short_name": "WhatsNext",
 	"start_url": "index.html",
-	"display": "fullscreen",
+	"display": "standalone",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
